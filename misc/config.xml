@@ -9,7 +9,7 @@
         <hudson.model.StringParameterDefinition>
           <name>TOMCAT_HOME</name>
           <description></description>
-          <defaultValue>C:\apache-tomcat-8.5.39</defaultValue>
+          <defaultValue>C:/DevSecOps-30102019/apache-tomcat-8.5.40</defaultValue>
           <trim>false</trim>
         </hudson.model.StringParameterDefinition>
         <hudson.model.StringParameterDefinition>
@@ -46,7 +46,7 @@
       <configVersion>2</configVersion>
       <userRemoteConfigs>
         <hudson.plugins.git.UserRemoteConfig>
-          <url>https://github.com/khozema-nullwala/spring-petclinic.git</url>
+          <url>https://github.com/trranjith/spring-petclinic-devsecops.git</url>
         </hudson.plugins.git.UserRemoteConfig>
       </userRemoteConfigs>
       <branches>
